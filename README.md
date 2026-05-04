@@ -1,6 +1,6 @@
 # Hi, I'm Martin Gutierrez 👋
 
-**Senior Firmware Engineer | Founder of [@Artifact-in-C](https://github.com/Artifact-in-C)**
+**Firmware developer | Founder of [@Artifact-in-C](https://github.com/Artifact-in-C)**
 
 I specialize in high-performance embedded systems, low-level C architecture, and RTOS integration. Through **[Artifact in C](https://artifactinc.org/)**, I document and share advanced techniques for firmware development and hardware-software co-design.
 
