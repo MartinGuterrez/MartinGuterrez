@@ -5,7 +5,7 @@
 I specialize in high-performance embedded systems, low-level C architecture, and RTOS integration. Through **[Artifact in C](https://artifactinc.org/)**, I document and share advanced techniques for firmware development and hardware-software co-design.
 
 ### 🛠 Technical Stack & Toolchain
-- **Languages:** C99/C11 (Embedded), Modern C++, ARM/RISC-V Assembly
+- **Languages:** C99/C11 (Embedded), ARM/RISC-V Assembly
 - **Architecture & OS:** Bare-Metal, FreeRTOS, Zephyr, ChibiOS, DSP
 - **Build Systems:** CMake, Make, GNU Toolchain, Linker Scripts
 - **Debugging & Test:** GDB, OpenOCD, Segger J-Link, Oscilloscopes/Logic Analyzers
